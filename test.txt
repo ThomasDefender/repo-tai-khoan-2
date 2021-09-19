@@ -1,4 +1,4 @@
 Tạo thử một file test.txt
 Pull thử lên trang github.com
 Dùng Smartgit
-haha cố ý tạo conflic
+ai cho  tạo
