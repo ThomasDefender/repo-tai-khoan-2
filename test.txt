@@ -1,4 +1,4 @@
 Tạo thử một file test.txt
 Pull thử lên trang github.com
 Dùng Smartgit
-t ghi đè conflic nè, đá chết mèo m giờ 
+ đá chết mèo m giờ 
