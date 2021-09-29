@@ -3,3 +3,4 @@ Pull thử lên trang github.com
 Dùng Smartgit
  đá chết mèo m giờ 
 cố ý tạo conflic
+t ghi đè conflic nè, cố ý tạo conflic
